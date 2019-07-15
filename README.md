@@ -1,3 +1,7 @@
+# 架构图
+
+![image](https://github.com/shiqinying/AdslProxy/raw/master/screenshots/adsl_proxy架构.jpg)
+
 ## 拨号主机设置
 
 ### 1.拨号上网
